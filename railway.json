@@ -5,7 +5,7 @@
     "buildCommand": "pip install -r requirements.txt"
   },
   "deploy": {
-    "startCommand": "gunicorn --bind 0.0.0.0:$PORT app:app --workers 1 --timeout 120 --worker-class eventlet",
+    "startCommand": "gunicorn --bind 0.0.0.0:$PORT app:app --workers 1 --timeout 120 --worker-class gevent",
     "healthcheckPath": "/api/health",
     "healthcheckTimeout": 300,
     "restartPolicyType": "ON_FAILURE",

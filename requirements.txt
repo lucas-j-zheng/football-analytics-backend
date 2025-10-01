@@ -59,4 +59,5 @@ langsmith>=0.1.0
 
 # Production server
 gunicorn==21.2.0
-eventlet==0.33.3
+gevent==24.2.1
+setuptools>=65.0.0
