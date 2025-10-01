@@ -1,0 +1,52 @@
+Play ID,Down,Distance,Yard Line,Formation,Play Type,Play Name,Result of Play,Yards Gained,Points Scored,Unit
+0,N/A,N/A,35,Special Teams,Kickoff,Kickoff,Return,0,0,ST
+1,1,10,28,I-Form,Run,Inside Zone,Gain,5,0,O
+2,2,5,33,Shotgun,Pass,Slant,Incomplete,0,0,O
+3,3,5,33,Shotgun,Pass,Dig,Complete,9,0,O
+4,1,10,42,Singleback,Pass,Play Action,Sack,-8,0,O
+5,2,18,34,Shotgun,Run,Draw,Gain,6,0,O
+6,3,12,40,Shotgun,Pass,Screen,Complete,15,0,O
+7,1,10,55,Pistol,Run,Counter,Gain,3,0,O
+8,2,7,58,I-Form,Run,Power,Gain,2,0,O
+9,3,5,60,Shotgun,Pass,Comeback,Complete,7,0,O
+10,1,10,67,Shotgun,Pass,Go Route,Touchdown,33,6,O
+11,N/A,N/A,85,Special Teams,Extra Point,PAT,Good,0,1,ST
+12,N/A,N/A,35,Special Teams,Kickoff,Kickoff,Touchback,0,0,ST
+13,1,10,25,I-Form,Run,Sweep,Tackle for Loss,-3,0,O
+14,2,13,22,Shotgun,Pass,Seam,Complete,11,0,O
+15,3,2,33,I-Form,Run,Dive,No Gain,0,0,O
+16,4,2,33,Punt,Punt,Punt,Punt (Fair Catch),0,0,ST
+17,1,10,22,Singleback,Run,Outside Zone,Gain,4,0,O
+18,2,6,26,Shotgun,Pass,Out,Complete,12,0,O
+19,1,10,38,Pistol,Pass,Flat,Penalty (False Start),-5,0,O
+20,1,15,33,Shotgun,Pass,Post,Complete,18,0,O
+21,1,10,51,I-Form,Run,Inside Zone,Gain,6,0,O
+22,2,4,57,Shotgun,Pass,Curl,Complete,5,0,O
+23,1,10,62,Singleback,Run,Power,Gain,2,0,O
+24,2,8,64,Shotgun,Pass,Slant,Incomplete,0,0,O
+25,3,8,64,Shotgun,Pass,Dig,Complete,7,0,O
+26,4,1,71,Field Goal,Field Goal,FG Attempt,Good,0,3,ST
+27,N/A,N/A,35,Special Teams,Kickoff,Kickoff,Touchback,0,0,ST
+28,1,10,25,I-Form,Run,Inside Zone,Gain,9,0,O
+29,2,1,34,I-Form,Run,Dive,Gain,3,0,O
+30,1,10,37,Shotgun,Pass,Go Route,Complete,25,0,O
+31,1,10,62,Pistol,Run,Counter,Gain,4,0,O
+32,2,6,66,Shotgun,Pass,Screen,Complete,11,0,O
+33,1,10,77,I-Form,Run,Power,Gain,5,0,O
+34,2,5,82,Shotgun,Pass,Out,Interception,-15,0,O
+35,1,10,30,Singleback,Run,Inside Zone,Gain,2,0,O
+36,2,8,32,Shotgun,Pass,Slant,Complete,5,0,O
+37,3,3,37,Shotgun,Pass,Screen,Gain,1,0,O
+38,4,2,38,Punt,Punt,Punt,Punt,0,0,ST
+39,1,10,15,I-Form,Run,Power,Gain,40,0,O
+40,1,10,55,Shotgun,Pass,Play Action,Sack,-6,0,O
+41,2,16,49,Shotgun,Pass,Hail Mary,Incomplete,0,0,O
+42,3,16,49,Shotgun,Run,Draw,Gain,8,0,O
+43,N/A,N/A,57,Field Goal,Field Goal,FG Attempt,Missed,0,0,ST
+44,1,10,47,Shotgun,Pass,Slant,Complete,5,0,O
+45,2,5,52,I-Form,Run,Dive,Gain,3,0,O
+46,3,2,55,Singleback,Run,Power,Gain,2,0,O
+47,1,10,57,Pistol,Run,Sweep,Tackle for Loss,-4,0,O
+48,2,14,53,Shotgun,Pass,Seam,Incomplete,0,0,O
+49,3,14,53,Shotgun,Pass,Screen,Complete,21,0,O
+50,1,10,74,Shotgun,Pass,Comeback,Touchdown,26,6,O

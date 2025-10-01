@@ -1,0 +1,26 @@
+Play ID,Down,Distance,Yard Line,Formation,Play Type,Play,Result of Play
+1,1,10,25,I Formation,Run,Inside Zone,3 yard gain
+2,2,7,28,Shotgun,Pass,Slant,12 yard gain
+3,1,10,40,I Formation,Run,Outside Zone,2 yard gain
+4,2,8,42,Shotgun,Pass,Out Route,15 yard gain - Touchdown
+5,1,10,20,Gun Trips,Pass,Fade,Incomplete
+6,2,10,20,I Formation,Run,Power,6 yard gain
+7,3,4,26,Shotgun,Pass,Quick Slant,8 yard gain
+8,1,10,34,Singleback,Run,Sweep,1 yard gain
+9,2,9,35,Shotgun,Pass,Comeback,11 yard gain
+10,1,10,46,I Formation,Run,Dive,4 yard gain
+11,1,10,15,Shotgun,Pass,Deep Post,22 yard gain
+12,2,2,7,I Formation,Run,Dive,7 yard gain - Touchdown
+13,1,10,12,Shotgun,Pass,Fade,Incomplete
+14,3,5,35,Shotgun,Pass,Quick Out,7 yard gain
+15,3,8,42,Shotgun,Pass,Comeback,12 yard gain
+16,3,3,28,I Formation,Run,Power,1 yard gain
+17,1,10,25,I Formation,Run,Outside Zone,8 yard gain
+18,2,3,33,Singleback,Run,Draw,15 yard gain
+19,1,10,48,Pistol,Run,Inside Zone,6 yard gain
+20,2,7,47,Shotgun,Pass,Go Route,35 yard gain
+21,1,10,18,Singleback,Run,Sweep,18 yard gain - Touchdown
+22,1,10,50,Shotgun,Pass,Screen,4 yard gain
+23,4,1,38,I Formation,Run,QB Sneak,2 yard gain
+24,4,5,33,Shotgun,Pass,Curl,Incomplete
+25,1,10,65,Shotgun,Pass,Bubble Screen,6 yard gain

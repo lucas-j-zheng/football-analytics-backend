@@ -1,0 +1,62 @@
+# Flask and core dependencies
+flask==2.3.3
+flask-cors==4.0.0
+flask-jwt-extended==4.5.3
+flask-bcrypt==1.0.1
+python-dotenv==1.0.0
+flask-socketio==5.3.6
+
+# Database
+psycopg2-binary==2.9.7
+sqlalchemy==2.0.21
+flask-sqlalchemy==3.0.5
+
+# Supabase integration
+supabase==2.7.4
+gotrue==2.8.1
+
+# Data processing and analytics
+pandas==2.2.2
+numpy==2.2.2
+scipy==1.14.1
+scikit-learn==1.4.2
+xgboost==2.0.3
+joblib==1.4.2
+
+# Serialization
+marshmallow==3.20.1
+flask-marshmallow==0.15.0
+marshmallow-sqlalchemy==0.29.0
+
+# File processing and reporting
+reportlab==4.0.4
+openpyxl==3.1.2
+matplotlib==3.10.3
+pillow==11.3.0
+seaborn==0.13.2
+
+# Cloud storage
+google-cloud-storage==2.10.0
+
+# FastAPI (if needed)
+fastapi==0.112.0
+uvicorn[standard]==0.30.6
+pydantic==2.8.2
+
+# Redis and caching
+redis==5.0.7
+cachetools==5.3.3
+
+# Monitoring
+prometheus-client==0.20.0
+
+# AI/LangChain
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-core>=0.2.0
+langchain-ollama>=0.1.0
+langsmith>=0.1.0
+
+# Production server
+gunicorn==21.2.0
+gevent==24.2.1
